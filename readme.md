@@ -28,8 +28,10 @@ If they are not installed (if either of them gives you anything other than a ver
 Right click on the two links below and "Save link as" and save the files to your Desktop folder  
 (you can save it anywhere else, but in the steps below you'll need to cd to that folder instead - if you don't know what that means, keep it on your Desktop :)
 
-*   [requirements.txt](https://mcohen3.com/cricut/requirements.txt)
-*   [resetcricut.py](http://mcohen3.com/cricut/resetcricut.py)
+*   [requirements.txt](https://raw.githubusercontent.com/michaeljcohen/cricut_cache/refs/heads/main/requirements.txt)
+*   [resetcricut.py](https://raw.githubusercontent.com/michaeljcohen/cricut_cache/refs/heads/main/resetcricut.py)
+
+
 
 ### Run it
 
