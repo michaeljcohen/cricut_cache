@@ -11,9 +11,8 @@ To open Command Prompt -
 *   Press Win + R, type "cmd", and hit Enter. A black window will appear.
 
 Then type
-
-python --version  
-pip --version
+"python --version" and press enter
+"pip --version" and press enter
 
 If they are not installed (if either of them gives you anything other than a version number)
 
@@ -39,11 +38,9 @@ Open Command Prompt again
 
 *   Press Win + R, type "cmd", and hit Enter. A black window will appear.
 
-Type
-
-cd Desktop  
-pip install -r requirements.txt  
-python resetcricut.py
+type "cd Desktop" and press enter
+type "pip install -r requirements.txt" and press enter (this will run for 30-60 seconds)
+type "python resetcricut.py" and press enter
 
 If Cricut launches congratulations! You're finished! P.S. Don't delete these files
 
