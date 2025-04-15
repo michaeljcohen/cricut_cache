@@ -38,9 +38,9 @@ Open Command Prompt again
 
 *   Press Win + R, type "cmd", and hit Enter. A black window will appear.
 
-type "cd Desktop" and press enter
-type "pip install -r requirements.txt" and press enter (this will run for 30-60 seconds)
-type "python resetcricut.py" and press enter
+    *   type "cd Desktop" and press enter
+    *   type "pip install -r requirements.txt" and press enter (this will run for 30-60 seconds)
+    *   type "python resetcricut.py" and press enter
 
 If Cricut launches congratulations! You're finished! P.S. Don't delete these files
 
