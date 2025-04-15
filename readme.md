@@ -11,8 +11,8 @@ To open Command Prompt -
 *   Press Win + R, type "cmd", and hit Enter. A black window will appear.
 
 Then type
-"python --version" and press enter
-"pip --version" and press enter
+*   "python --version" and press enter
+*   "pip --version" and press enter
 
 If they are not installed (if either of them gives you anything other than a version number)
 
