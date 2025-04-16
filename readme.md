@@ -2,7 +2,7 @@ Automate Clearing of Cricut Cache
 ---------------------------------
 
   
-Mac instructions [here](https://github.com/michaeljcohen/cricut_cache/blob/main/resetcricut_mac.py)  
+Mac instructions [here](https://github.com/michaeljcohen/cricut_cache/blob/main/readme_mac.md)  
 
 ### Verify python is installed
 
