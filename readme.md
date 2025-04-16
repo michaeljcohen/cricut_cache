@@ -44,4 +44,7 @@ Open Command Prompt again
 
 If Cricut launches congratulations! You're finished! P.S. Don't delete these files
 
-Every time after that you should be able to double click on "resetcricut.py". If it asks how you want to open it, select python and check the "always use this option" checkbox
+### Runing it every time
+Once you've completed the above steps, you can 
+*   double click on "resetcricut.py" on your desktop
+    * If it asks how you want to open it, select python and check the "always use this option" checkbox
