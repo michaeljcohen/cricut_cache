@@ -32,7 +32,7 @@ Right click on the two links below and "Save link as" and save the files to your
 
 
 
-### Run it
+### Run it the first time
 
 Open Command Prompt again
 
