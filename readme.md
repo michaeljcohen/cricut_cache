@@ -50,3 +50,6 @@ If Cricut launches congratulations! You're finished! P.S. Don't delete these fil
       
 ### Runing it every time
 From now on you can just double click the resetcricut.py icon on your desktop and it will launch Design Space
+
+
+If you have issues, either create a new issue [here](https://github.com/michaeljcohen/cricut_cache/issues) or message me on reddit
